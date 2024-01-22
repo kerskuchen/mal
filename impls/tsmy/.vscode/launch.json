@@ -6,9 +6,9 @@
     "configurations": [
         {
             "request": "launch",
-            "name": "compile",
+            "name": "debug",
             "type": "node",
-            "program": "${workspaceFolder}/step0_repl.js",
+            "program": "${workspaceFolder}/step1_read_print.ts",
             "cwd": "${workspaceFolder}",
             "runtimeExecutable": "deno",
             "runtimeArgs": [

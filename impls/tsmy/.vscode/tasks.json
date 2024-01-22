@@ -6,12 +6,12 @@
 			"command": "run",
 			"args": [
 				"--allow-all",
-				"step0_repl.js"
+				"step1_read_print.ts"
 			],
 			"problemMatcher": [
 				"$deno"
 			],
-			"label": "step0"
+			"label": "run"
 		},
 	]
 }
