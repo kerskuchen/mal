@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "deno",
+			"command": "run",
+			"args": [
+				"--allow-all",
+				"step0_repl.js"
+			],
+			"problemMatcher": [
+				"$deno"
+			],
+			"label": "step0"
+		},
+	]
+}
